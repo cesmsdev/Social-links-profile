@@ -11,7 +11,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -40,7 +39,7 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-# Social-links-profile
+### Social-links-profile
 - Frontend Mentor - [@cesmsdev](https://www.frontendmentor.io/profile/cesmsdev)
 - Twitter - [@CesarMen_San](https://x.com/CesarMen_San)
 - Instagram - [@cesar_msan](https://www.instagram.com/cesar_msan/)
